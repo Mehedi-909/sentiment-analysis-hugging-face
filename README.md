@@ -6,18 +6,18 @@
 
 3. Create a virtual environment with the following command:
    
-#### windows
+#### Windows OS
 > py -m venv venv
 
-#### Unix/ Mac
+#### Unix/ Mac OS
 > python -m venv venv 
 
 4. Activate the virtual environment using the following command for Windows OS: 
 
-#### windows
+#### Windows OS
 > venv/Scripts/activate   
 
-#### Unix/ Mac
+#### Unix/ Mac OS
 > source venv/bin/activate
 
 5. Then install the dependencies using the command:
