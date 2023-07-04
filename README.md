@@ -1,5 +1,7 @@
 # sentimet-analysis
-## Project Guideline 
+## Read the README.pdf file for a more clear guideline with related screenshots
+
+### Project Guideline 
 1. Open the project folder “sentiment_analysis” with a suitable IDE such as PyCharm/ VS Code
    
 2. Open a new terminal window
