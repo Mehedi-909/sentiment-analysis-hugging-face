@@ -1,12 +1,16 @@
 # sentimet-analysis
 ## Read the README.pdf file for a more clear guideline with related screenshots
 
-### Project Guideline 
-1. Open the project folder “sentiment_analysis” with a suitable IDE such as PyCharm/ VS Code
-   
-2. Open a new terminal window
+### Project Guideline
+1. Clone/ download the repository from the following link:
+    
+   https://github.com/Mehedi-909/sentiment-analysis-hugging-face
 
-3. Create a virtual environment with the following command:
+2. Open the project folder “sentiment_analysis” with a suitable IDE such as PyCharm/ VS Code
+   
+3. Open a new terminal window
+
+4. Create a virtual environment with the following command:
    
 #### Windows OS
 > py -m venv venv
@@ -14,7 +18,7 @@
 #### Unix/ Mac OS
 > python -m venv venv 
 
-4. Activate the virtual environment using the following command for Windows OS: 
+5. Activate the virtual environment using the following command for Windows OS: 
 
 #### Windows OS
 > venv/Scripts/activate   
@@ -22,11 +26,11 @@
 #### Unix/ Mac OS
 > source venv/bin/activate
 
-5. Then install the dependencies using the command:
+6. Then install the necessary dependencies using the command:
 
 > pip install -r requirements.txt 
 
-6. After the successful installation, run the following command to run the server:
+7. After the successful installation, run the following command to run the server:
 
 > python manage.py runserver
 
